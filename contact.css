@@ -70,3 +70,11 @@ textarea.contact-form-text{
 .contact-form-btn:hover{
   background: #2980b9;
 }
+@media screen and (max-width: 420px){
+  body{
+    background: url(img/j.jpg) no-repeat center;
+    background-position: center;
+    padding: 0px;
+    margin: 0px;
+  }
+}
